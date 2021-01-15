@@ -107,10 +107,10 @@ h1{
 }
 
 .back{
-  background: #cedce7;
-  background: -webkit-linear-gradient(45deg,  #cedce7 0%,#596a72 100%);
-  background: -o-linear-gradient(45deg,  #cedce7 0%,#596a72 100%);
-  background: linear-gradient(45deg,  #cedce7 0%,#596a72 100%);
+  background: #cc2b5e ;
+  background: -webkit-linear-gradient(45deg,  #cc2b5e  0%,#753a88 100%);
+  background: -o-linear-gradient(45deg,  #cc2b5e  0%,#753a88 100%);
+  background: linear-gradient(45deg,  #cc2b5e  0%,#753a88 100%);
 }
 
 .front:after{
@@ -593,7 +593,7 @@ section.success {
 
 
     background-color:#143f7c;
-  
+
 
 
 }
